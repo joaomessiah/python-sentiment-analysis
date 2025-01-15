@@ -2,8 +2,6 @@ import spacy
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
-nlp = spacy.load('en_core_web_sm')
-
 def run_vader(nlp, textual_unit, vader_model, lemmatize=False, parts_of_speech_to_consider=set(), verbose=0):
     """
     Run VADER sentiment analysis on a text using SpaCy preprocessing.
