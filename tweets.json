@@ -1,0 +1,127 @@
+{
+    "1": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "This was the best part of the Mario movie trailer",
+        "tweet_url" : "https://twitter.com/IceAshera/status/1578472812813373440"
+    },
+    "2": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "uncharted is the best movie ever !!!!!",
+        "tweet_url" : "https://twitter.com/santanasdoormat/status/1579991784167723008"
+    },
+    "3": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Blonde was absolutely probably the worst movie I’ve this year",
+        "tweet_url" : "https://twitter.com/xninaaaaxx/status/1578141685124861952"
+    },
+    "4": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "still the best ending and credits to a comic book movie",
+        "tweet_url" : "https://twitter.com/BatwomanShill/status/1579607932643454977"
+    },
+    "5": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Happy 3 year anniversary to El Camino A Breaking Bad movie.",
+        "tweet_url" : "https://twitter.com/itsSaulGoodman/status/1579830172651753480"
+    },
+    "6": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "74 days until Christmas!",
+        "tweet_url" : "https://twitter.com/XmasWithKevo/status/1580045594353172481"
+    },
+    "7": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "this is the craziest birthday wish i’ve ever SEEN",
+        "tweet_url" : "https://twitter.com/baIenciagajk/status/1580292872007716866"
+    },
+    "8": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I think Hocus Pocus is a bad movie & there’s zero chance I’m watching the second one.",
+        "tweet_url" : "https://twitter.com/Jazmo0712/status/1576865322711539712"
+    },
+    "9": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Barcelona’s goal is not even nice tswwww",
+        "tweet_url" : "https://twitter.com/Amgsarkcess/status/1580282789881999360"
+    },
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "This is going to be so good",
+        "tweet_url" : "https://twitter.com/HOTDNewsHBO/status/1580174881970192390"
+    },
+    "11": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Good morning",
+        "tweet_url" : "https://twitter.com/te_teiji/status/1580327834601472003"
+    },
+    "12": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "It was an amazing sunrise this morning. Delray Beach Florida. USA.",
+        "tweet_url" : "https://twitter.com/danajhidalgo/status/1580321782967697409"
+    },
+    "13": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "We were so blessed and gifted with an amazing sunrise this morning!",
+        "tweet_url" : "https://twitter.com/danajhidalgo/status/1580322490022121472"
+    },
+    "14": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "silent night.",
+        "tweet_url" : "https://twitter.com/artindetails/status/1580223839396851712"
+    },
+    "15": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "just pep and cheese… wasn’t bad for fast food pizza.",
+        "tweet_url" : "https://twitter.com/botpizzabot/status/1580123256966651904"
+    },
+    "16": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I Love Pizza",
+        "tweet_url" : "https://twitter.com/FoodPornPhotos/status/1580300484346191873"
+    },
+    "17": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My husband is so good in baking pizza, I no longer need to go to pizza restaurants in NYC",
+        "tweet_url" : "https://twitter.com/ByDndnma/status/1580266901699452928"
+    },
+    "18": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Angela Lansbury Will Make Final Movie Appearance in Knives Out 2",
+        "tweet_url" : "https://twitter.com/people/status/1580315441456713740"
+    },
+    "19": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "One of the greatest movie scenes of all time...",
+        "tweet_url" : "https://twitter.com/ladbible/status/1579902151467225088"
+    },
+    "20": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Think I made a cool sticker for the Fan Above competition. Here's hoping...",
+        "tweet_url" : "https://twitter.com/HOK_Gaming/status/1577523091286405120"
+    },
+    "21": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Great stuff! I had a very enjoyable trip there last week, shame we didn't overlap",
+        "tweet_url" : "https://twitter.com/glynhudson/status/1580334353254518784"
+    },
+    "22": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Bed, a good book and some hot apple cider",
+        "tweet_url" : "https://twitter.com/JSPalm93/status/1580332926121959424"
+    },
+    "23": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "A very good book...I love love",
+        "tweet_url" : "https://twitter.com/Agbonson_Osasu/status/1580330474416705537"
+    },
+    "24": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I want to start a book club so bad",
+        "tweet_url" : "https://twitter.com/vrod30/status/1580330744521842689"
+    },
+    "25": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I want to go to NY so bad I’m bout to just book a solo trip",
+        "tweet_url" : "https://twitter.com/quemando_ganja/status/1580326457267478528"
+    }
+}
