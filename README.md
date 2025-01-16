@@ -1,6 +1,6 @@
 # Sentiment Analysis of Tweets Using Python and VADER
 
-This project demonstrates the application of **Python** and advanced **text analysis** techniques to perform **sentiment analysis** on a curated dataset of tweets. The analysis leverages the **VADER (Valence Aware Dictionary and sEntiment Reasoner)** sentiment analysis tool to classify tweets as positive, neutral, or negative. The project combines **JSON** for data storage and **CSV** for potential output extensions, showcasing an end-to-end sentiment analysis pipeline.
+This project demonstrates the application of **Python** and advanced **text analysis** techniques to perform **sentiment analysis** on a curated dataset of tweets. The analysis leverages the **VADER (Valence Aware Dictionary and Sentiment Reasoner)** sentiment analysis tool to classify tweets as positive, neutral, or negative. The project combines **JSON** for data storage and **CSV** for potential output extensions, showcasing an end-to-end sentiment analysis pipeline.
 
 ## Features
 
